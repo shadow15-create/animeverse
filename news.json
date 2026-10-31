@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T18:57:29.788241+00:00",
+  "lastUpdated": "2026-10-31T01:11:31.064230+00:00",
   "sourcesUpdated": [
     "MyAnimeList",
     "Anime News Network",
@@ -7,6 +7,34 @@
   ],
   "sourcesUnavailable": [],
   "articles": [
+    {
+      "title": "Sanrio Mascot Kuromi Gets Anime Movie Slated for 2027",
+      "url": "https://crunchyroll.com/news/latest/2026/10/31/kuromi-sanrio-mascot-first-anime-movie-2027",
+      "source": "Crunchyroll",
+      "published": "2026-10-31T00:52:00+00:00",
+      "summary": "Details on the international release will be announced at a later date"
+    },
+    {
+      "title": "Sanrio's Kuromi Character Gets 1st Film in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-30/sanrio-kuromi-character-gets-1st-film-in-2027/.243372",
+      "source": "Anime News Network",
+      "published": "2026-10-31T00:42:09+00:00",
+      "summary": "Announced on Kuromi's birthday, Halloween, after 3 net anime series"
+    },
+    {
+      "title": "North American Anime, Manga Releases, October 25-31",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-30/north-american-anime-manga-releases-october-25-31/.243223",
+      "source": "Anime News Network",
+      "published": "2026-10-30T21:10:32+00:00",
+      "summary": "Yaiba: Samurai Legend, Sword of the Demon Hunter anime; Naruto x Teenage Mutant Ninja Turtles—Manga Style Edition, Tojima Wants to be a Kamen Rider manga ship"
+    },
+    {
+      "title": "Brazil's CCXP Screens World Premiere of Garena Free Fire Game's Free Fire Daybreak Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-30/brazil-ccxp-screens-world-premiere-of-garena-free-fire-game-free-fire-daybreak-anime/.243371",
+      "source": "Anime News Network",
+      "published": "2026-10-30T18:34:33+00:00",
+      "summary": "Screening takes place at São Paulo Expo on December 5"
+    },
     {
       "title": "King Gnu 2027 US Tour Announced with Dates in LA, NY",
       "url": "https://crunchyroll.com/news/latest/2026/10/30/king-gnu-2027-us-tour-los-angeles-new-york",
@@ -678,34 +706,6 @@
       "source": "Anime News Network",
       "published": "2026-10-28T18:35:35+00:00",
       "summary": "Switch 2 editions launch on Thursday"
-    },
-    {
-      "title": "Good Smile Company Announces Data Breach of Online Store",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-28/good-smile-company-announces-data-breach-of-online-store/.243267",
-      "source": "Anime News Network",
-      "published": "2026-10-28T18:00:00+00:00",
-      "summary": "User info, order info, basic (but incomplete) credit card info were accessed"
-    },
-    {
-      "title": "What Romance Tropes Saka Mikami Avoided With The Fragrant Flower Blooms With Dignity Manga",
-      "url": "https://www.animenewsnetwork.com/interview/2026-10-28/what-romance-tropes-saka-mikami-avoided-with-the-fragrant-flower-blooms-with-dignity-manga/.243085",
-      "source": "Anime News Network",
-      "published": "2026-10-28T17:35:01+00:00",
-      "summary": "While visiting Kodansha House during New York Comic Con weekend, Mikami shared one moment from the manga that shocked her, despite writing being the person who wrote it"
-    },
-    {
-      "title": "Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 10",
-      "url": "https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-10/.243290",
-      "source": "Anime News Network",
-      "published": "2026-10-28T17:30:00+00:00",
-      "summary": "This was a great note for Bleach to end on, and I’m glad Pierrot Films made it the best it could possibly hope to be."
-    },
-    {
-      "title": "Bakudo Action Game's Trailer Reveals Switch 2 Version, 2027 Release",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-28/bakudo-action-game-trailer-reveals-switch-2-version-2027-release/.243289",
-      "source": "Anime News Network",
-      "published": "2026-10-28T17:00:00+00:00",
-      "summary": "Shueisha Games to release sci-fi action battle game for Switch 2, PC"
     }
   ]
 }
