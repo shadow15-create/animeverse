@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T18:55:21.259710+00:00",
+  "lastUpdated": "2026-11-01T01:21:42.939439+00:00",
   "sourcesUpdated": [
     "MyAnimeList",
     "Anime News Network",
@@ -7,6 +7,13 @@
   ],
   "sourcesUnavailable": [],
   "articles": [
+    {
+      "title": "Happy Halloween 2026 From Around the Anime World, Part IV",
+      "url": "https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-iv/.243396",
+      "source": "Anime News Network",
+      "published": "2026-11-01T00:20:00+00:00",
+      "summary": "Featuring Oshi no Ko, Mushoku Tensei, Spice & Wolf, Shangri-La Frontier, Bungo Stray Dogs, Tales of, Saiki K., Gushing Over Magical Girls, & more!"
+    },
     {
       "title": "The Ramparts of Ice Season 2 ‒ Episode 19",
       "url": "https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-19/.243393",
@@ -699,13 +706,6 @@
       "source": "Crunchyroll",
       "published": "2026-10-29T12:17:00+00:00",
       "summary": "Crunchyroll streams adaptation based on Oreco Tachibana's historical romance manga"
-    },
-    {
-      "title": "Korea Holds 1st AI Creative Contest for Children to Make Webtoons",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-29/korea-holds-1st-ai-creative-contest-for-children-to-make-webtoons/.243304",
-      "source": "Anime News Network",
-      "published": "2026-10-29T12:15:00+00:00",
-      "summary": "Participants received instruction in AI ethics, how to use tools before creating their works"
     }
   ]
 }
