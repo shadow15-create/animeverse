@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T01:17:12.375771+00:00",
+  "lastUpdated": "2026-11-03T07:25:02.616142+00:00",
   "sourcesUpdated": [
     "MyAnimeList",
     "Anime News Network",
@@ -7,6 +7,20 @@
   ],
   "sourcesUnavailable": [],
   "articles": [
+    {
+      "title": "Live-Action Quiztopia Series Unveils Trailer, Key Art",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-02/live-action-quiztopia-series-unveils-trailer-key-art/.243460",
+      "source": "Anime News Network",
+      "published": "2026-11-03T03:45:56+00:00",
+      "summary": "Series debuting on Netflix on December 17 with scenes with 8,000 extras"
+    },
+    {
+      "title": "Centimillimental Releases Hello, I am a Witch and my Crush Wants me to Make a Love Potion! Anime Opening Song Music Video",
+      "url": "https://crunchyroll.com/news/latest/2026/11/3/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-opening-song-music-video-centimillimental",
+      "source": "Crunchyroll",
+      "published": "2026-11-03T02:00:00+00:00",
+      "summary": "The anime is currently streaming on Crunchyroll"
+    },
     {
       "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Ranks 5th in 15th Weekend",
       "url": "https://crunchyroll.com/news/latest/2026/11/3/chiikawa-the-movie-the-secret-of-the-mermaid-island-5th-15th-weekend-japan-box-office",
@@ -692,20 +706,6 @@
       "source": "Crunchyroll",
       "published": "2026-10-31T01:46:00+00:00",
       "summary": "The new season is currently available on Crunchyroll"
-    },
-    {
-      "title": "Sanrio Mascot Kuromi Gets Anime Movie Slated for 2027",
-      "url": "https://crunchyroll.com/news/latest/2026/10/31/kuromi-sanrio-mascot-first-anime-movie-2027",
-      "source": "Crunchyroll",
-      "published": "2026-10-31T00:52:00+00:00",
-      "summary": "Details on the international release will be announced at a later date"
-    },
-    {
-      "title": "Sanrio's Kuromi Character Gets 1st Film in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-30/sanrio-kuromi-character-gets-1st-film-in-2027/.243372",
-      "source": "Anime News Network",
-      "published": "2026-10-31T00:42:09+00:00",
-      "summary": "Announced on Kuromi's birthday, Halloween, after 3 net anime series"
     }
   ]
 }
